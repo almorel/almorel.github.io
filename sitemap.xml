@@ -5,29 +5,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2020-01-12T19:46:55-00:00</lastmod>
+<lastmod>2020-01-12T19:50:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2020-01-12T19:46:55-00:00</lastmod>
+<lastmod>2020-01-12T19:50:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2020-01-12T19:46:55-00:00</lastmod>
+<lastmod>2020-01-12T19:50:42-00:00</lastmod>
 <changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/blog/2020/01/11/herbergement raspberry/</loc>
-<lastmod>2020-01-11T10:20:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -39,22 +32,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/category/hebergement.html</loc>
-<lastmod>2020-01-11T10:20:00+00:09</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>/category/outils.html</loc>
 <lastmod>2020-01-03T10:20:00+00:09</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/tag/raspberry.html</loc>
-<lastmod>2020-01-11T10:20:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
