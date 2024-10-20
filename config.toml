@@ -1,0 +1,28 @@
+baseURL = 'https://chezmouchet.frama.io'
+languageCode = 'fr-FR'
+title = 'Chez Mouchet'
+theme="archie"
+copyright = "© chezmouchet"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto" # color-mode → light,dark,toggle or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "Un sysadmin hauturier"
+	mathjax = true # enable MathJax support
+	katex = true # enable KaTeX support
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Billets"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Mots-clefs"
+url = "/tags"
+weight = 3
