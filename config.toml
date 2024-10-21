@@ -1,8 +1,8 @@
-baseURL = 'https://chezmouchet.frama.io'
+baseURL = 'https://almorel.github.io'
 languageCode = 'fr-FR'
-title = 'Chez Mouchet'
+title = 'almorel'
 theme="archie"
-copyright = "© chezmouchet"
+copyright = "© almorel"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
